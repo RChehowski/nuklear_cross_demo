@@ -1,3 +1,0 @@
-/Users/netherwire/Projects/nuklear_cross/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/netherwire/Projects/nuklear_cross/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/netherwire/Projects/nuklear_cross/cmake-build-debug/CMakeFiles/nuklear_cross.dir
