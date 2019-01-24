@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -I/usr/local/lib -framework OpenGL -lglfw CMakeFiles/nuklear_cross.dir/main.cpp.o CMakeFiles/nuklear_cross.dir/nuklear_cross.c.o  -o nuklear_cross 
